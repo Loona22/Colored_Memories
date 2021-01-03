@@ -26,7 +26,6 @@ class Scene{
 
         char* voix_intro = (char*) "../Template/assets/musique/intro.wav";
         char* voix_outro = (char*) "../Template/assets/musique/outro.wav";
-        char* transition = (char*) "../Template/assets/musique/entre_monde.wav";
 
         void loadScene(std::string &path);
 
